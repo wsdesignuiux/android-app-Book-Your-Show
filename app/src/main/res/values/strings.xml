@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Book_Your_Show</string>
+
+    <string name="hello_world"><font fgcolor="#212224">Already a user?</font>
+    <font fgcolor="#2050d5">  Login now</font>
+    </string>
+
+    <string name="hello">kjkk</string>
+
+    <string name="edittext_hint"><font size="9.5">Kishore S</font></string>
+
+    <string name="edittext_hint1"><font size="9.5">contact@elitepixels.net</font></string>
+    <string name="edittext_hint2"><font size="9.5">•••••••••••</font></string>
+
+
+
+</resources>

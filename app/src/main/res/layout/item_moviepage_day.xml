@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="57.6dp"
+    android:layout_height="57.6dp"
+    android:orientation="vertical"
+    android:layout_marginRight="14.41dp"
+    android:gravity="center"
+    android:id="@+id/ll1"
+    android:background="@drawable/day_rect_moviepage_gray_square">
+
+<customfonts.MyTextView_Roboto_Bold
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="FRI"
+    android:id="@+id/day"
+    android:textColor="#c4c9df"
+    android:layout_marginBottom="4.65dp"
+    android:textSize="9.6sp"/>
+
+    <customfonts.MyTextView_Roboto_Bold
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="12"
+        android:id="@+id/date"
+        android:textColor="#c4c9df"
+        android:textSize="18sp"/>
+
+</LinearLayout>
